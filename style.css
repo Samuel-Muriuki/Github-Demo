@@ -5,3 +5,7 @@ h1{
 .type{
   padding: 1px color: solid green;
 }
+
+body{
+  background-color: brown;
+}
